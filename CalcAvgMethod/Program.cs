@@ -1,7 +1,7 @@
 ﻿using System;
 
-namespace CalcAvgMethod                                                                            // Methodlar ayri ayri proyektlerde yaradilib
-{                                                                                                  // Sag terefde ================= >>>>>>>
+namespace CalcAvgMethod
+{
     class Program
     {
         static void Main(string[] args)
